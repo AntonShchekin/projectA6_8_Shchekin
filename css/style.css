@@ -1,0 +1,19 @@
+.progress {
+ display: flex;
+ margin-top: 10px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 10px;
+ height: 40px;
+ border: 1px solid black;
+} 
+ 
+.Buttons {
+	display: flex;
+	justify-content: center;
+}
+
+.btn {
+	margin-right: 10px;
+}
+
